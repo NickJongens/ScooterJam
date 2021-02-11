@@ -20,7 +20,7 @@ sudo pip install git+https://github.com/AntonHakansson/m365py.git#egg=m365py
 ## Find MAC address for scooter
 
 This package includes the option to scan and list nearby M365 Scooters.
-Simply excecute the package as such:
+Simply execute the package as such:
 
 ```sh
 sudo python -m m365py
@@ -30,6 +30,11 @@ Clone the Repository:
 ```sh
 git clone https://github.com/NickJongens/ScooterJam.git
 ```
+
+Modify ScooterJam.py to your Scooter's MAC Address:
+
+"my_scooter_mac_address = "00:00:00:00:00:00" 
+
 
 ## Start the attack - could be run as a cron job etc:
 ```sh
