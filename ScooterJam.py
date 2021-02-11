@@ -7,7 +7,7 @@ from m365py import m365py
 from m365py import m365message
 from bluepy.btle import Scanner
 
-my_scooter_mac_address = "ed:94:a8:fb:96:e3"
+my_scooter_mac_address = "00:00:00:00:00:00"
 
 # callback for received messages from scooter
 def handle_message(m365_peripheral, m365_message, value):
