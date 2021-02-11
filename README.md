@@ -31,7 +31,7 @@ Clone the Repository:
 git clone https://github.com/NickJongens/ScooterJam.git
 ```
 
-Start the attack - could be run as a cron job etc:
+## Start the attack - could be run as a cron job etc:
 ```sh
 sudo python ScooterJam.py
 ```
