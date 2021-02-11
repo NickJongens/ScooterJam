@@ -6,6 +6,9 @@ Will work best with scooters on 1.3.8 firmware.
 
 A good platform for this attack is a Raspberry Pi broadcasting a WiFi hotspot, or a cron job if you want to attack all scooters in your path.
 
+Please do not target scooters without the express consent of the users targeted.
+I do not take any responsibility for your actions.
+
 ## Installation of pip and modules
 
 ```sh
