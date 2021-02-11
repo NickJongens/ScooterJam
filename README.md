@@ -17,10 +17,10 @@ sudo pip install bluepy
 sudo pip install git+https://github.com/AntonHakansson/m365py.git#egg=m365py
 ```
 
-## Find MAC address for scooter
+## Find MAC address of your scooter
 
-This package includes the option to scan and list nearby M365 Scooters.
-Simply execute the package as such:
+You'll need to find the MAC Address of your scooter. 
+Using the m365py module, you can find the MAC Addresses of all nearby scooters:
 
 ```sh
 sudo python -m m365py
@@ -46,7 +46,9 @@ sudo python ScooterJam.py
 ## Credits
 
 Anton Hakansson
+
 https://github.com/AntonHakansson
 
 Ian Harvey
+
 https://github.com/IanHarvey
