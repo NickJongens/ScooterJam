@@ -1,7 +1,10 @@
 # ScooterJam
-A script to scan for nearby m365 scooters and lock them on their next stop, while leaving your scooter free to leave the others in the dust.
+A script to scan for nearby Xiaomi m365 scooters and lock them on their next stop, while leaving your scooter free to leave the others in the dust.
 Works great at traffic lights and drag races.
+Will work best with scooters on 1.3.8 firmware.
+(pretty much any modified firmware as this is the most compatible)
 
+A good platform for this attack is a Raspberry Pi broadcasting a WiFi hotspot, or a cron job if you want to attack all scooters in your path.
 
 ## Installation of pip and modules
 
