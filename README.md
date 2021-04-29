@@ -20,7 +20,7 @@ sudo pip install bluepy
 ```
 
 ```sh
-sudo pip install git+https://github.com/AntonHakansson/m365py.git#egg=m365py
+sudo pip install git+https://github.com/NickJongens/m365py.git#egg=m365py
 ```
 
 ## Find MAC address of your scooter
