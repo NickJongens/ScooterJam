@@ -13,6 +13,11 @@ I do not take any responsibility for your actions.
 
 ```sh
 sudo apt-get install python-pip libglib2.0-dev
+
+Or for ubuntu 20.04
+
+sudo apt update
+sudo apt install python3-pip libglib2.0-dev
 ```
 
 ```sh
